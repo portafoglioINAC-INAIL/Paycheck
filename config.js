@@ -7,6 +7,6 @@
 //  NON inserire mai qui la "service_role" key.
 // ============================================================
 window.PAYCHECK_CONFIG = {
-  SUPABASE_URL: "https://portafoglioinac-inail.github.io/Paycheck/",
+  SUPABASE_URL: "https://apoeuepkaespzjevqpbx.supabase.co",
   SUPABASE_ANON_KEY: "sb_publishable_KRcG6cyVDMwXo3SFb7INGQ_Btu9NBcU"
 };
